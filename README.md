@@ -37,6 +37,14 @@ Membangun aplikasi web modern yang skalabel serta aplikasi mobile Android native
 
 ---
 
+### Statistik Repository (Public & Private)
+
+| Public Repositories | Private Repositories |
+| :---: | :---: |
+| ![Public Repositories](https://raw.githubusercontent.com/dafaardnto1/dafaardnto1/output/public-repos.svg) | ![Private Repositories](https://raw.githubusercontent.com/dafaardnto1/dafaardnto1/output/private-repos.svg) |
+
+---
+
 ### Aktivitas & Statistik Commit
 
 | Ringkasan Kontribusi | Bahasa Pemrograman |
