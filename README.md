@@ -22,6 +22,7 @@ Membangun aplikasi web modern yang skalabel serta aplikasi mobile Android native
 | **Peran** | Web Developer & Native Android Developer |
 | **Fokus Pengembangan** | Full-Stack Web Applications, SaaS Platforms, & Mobile Apps |
 | **Saat Ini** | Mengembangkan produk digital, sistem manajemen berbasis web, dan aplikasi Android |
+| **Status** | Tersedia untuk proyek *freelance* Web & Android Development |
 
 ---
 
