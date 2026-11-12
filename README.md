@@ -9,6 +9,7 @@ Membangun aplikasi web modern yang skalabel serta aplikasi mobile Android native
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0855--9866--113-181717?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/628559866113)
 [![Email](https://img.shields.io/badge/Email-dafaardianto466%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:dafaardianto466@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40dafaardnto1-181717?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dafaardnto1)
+![Views](https://komarev.com/ghpvc/?username=dafaardnto1&style=flat-square&color=181717&label=Views)
 
 </div>
 
